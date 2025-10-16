@@ -18,7 +18,7 @@ Email Me 👉 ✉️ **nodinabila03@gmail.com** For Collaboration/Project or Any
 ⚡ Fun fact: I love blending creativity with code to make user-friendly designs!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nowshin Nodi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nodinabila03@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Nowshin Nodi)](https://www.linkedin.com/in/nowshin-nodi-082796205/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nodinabila03@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
