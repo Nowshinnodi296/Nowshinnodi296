@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Nusrat Nowshin Nodi
-**Aspiring Software Engineer | Web Developer | UI/UX Designer | Tech Enthusiast from Bangladesh **
+**Aspiring Software Engineer | Web Developer | Tech Enthusiast from Bangladesh **
 
 Email Me 👉 ✉️ **nodinabila03@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
