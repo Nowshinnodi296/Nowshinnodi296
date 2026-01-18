@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Nusrat Nowshin Nodi
 **Aspiring Software Engineer | Web Developer | Tech Enthusiast from Bangladesh **
 
-Email Me 👉 ✉️ **nodinabila03@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **nabilandy9@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 🎓 Currently pursuing: B.Sc. in Computer Science and Engineering at BRAC University
 
@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **nodinabila03@gmail.com** For Collaboration/Project or Any
 
 👯 I’m looking to collaborate on: Projects and open-source contributions
 
-📫 How to reach me: nodinabila03@gmail.com
+📫 How to reach me: nabilandy9@gmail.com
 
 😄 Pronouns: She/Her
 
